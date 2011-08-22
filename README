@@ -1,9 +1,9 @@
-GridViews Prototypes
+h1=. GridViews Prototypes
 
-It is a simple project in which I will test many grid views implementation.
+p=. It is a simple project in which I will test many grid views implementation.
 It also illustrates some issues I encounter.
 
-Grid Views actually there
+h2=. Grid Views actually there
 
 - AQGridView from Alan Quatermain (https://github.com/AlanQuatermain/AQGridView).
 	See ViewControllerWithAQGridView for the source.
