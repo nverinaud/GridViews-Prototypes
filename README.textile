@@ -5,5 +5,5 @@ It also illustrates some issues I encounter.
 
 h2=. Grid Views actually there
 
-- AQGridView from Alan Quatermain (https://github.com/AlanQuatermain/AQGridView).
+- AQGridView from "Alan Quatermain":https://github.com/AlanQuatermain/AQGridView.
 	See ViewControllerWithAQGridView for the source.
